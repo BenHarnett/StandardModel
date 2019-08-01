@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.88
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Particles", "Particles\Particles.csproj", "{383C4CD4-CC33-4A11-91D4-BCFB3DA5796D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{383C4CD4-CC33-4A11-91D4-BCFB3DA5796D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{383C4CD4-CC33-4A11-91D4-BCFB3DA5796D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{383C4CD4-CC33-4A11-91D4-BCFB3DA5796D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{383C4CD4-CC33-4A11-91D4-BCFB3DA5796D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E5D9370-83AE-4997-9FF4-C9B75EEACF81}
+	EndGlobalSection
+EndGlobal
